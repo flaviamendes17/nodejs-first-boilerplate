@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto modelo para as próximas aplicações em NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviamendes17/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "SENAI",
+    "Back-End",
+    "Dev"
+  ],
+  "author": "Flavia Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaviamendes17/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/flaviamendes17/nodejs-first-boilerplate#readme"
+}
